@@ -1,0 +1,281 @@
+# Sections content configuration file
+##
+### use navigation.yml file to re-order, delete or add section of each card
+### here you can find all content in all pre-build sections
+
+### Started [ started ]
+started:
+  title: "Riwaj <br />Chalise"
+  typed:
+    - "Web Developer"
+    - "DevOps"
+    - "Freelancer"
+  text: "Thank you for visiting my website. Please take a look around and feel free to contact me with any inquiries or collaborations."
+  button:
+    text: "Contact Me"
+    link: "#section-contacts"
+
+### About [ about ]
+about:
+  title: "About Me"
+  subtitle: "My story"
+  text: >-
+        <p>After I graduated high school in 2015, I wasn't really sure what I wanted to do with my life. I had always been interested in technology, but I wasn't sure if I was ready to commit to a full-time degree program. So, I decided to take a year gap and try to figure things out.</p><p>Eventually, I decided that I wanted to study computer science and pursue a career in the tech industry. I enrolled in a bachelors program and worked hard to complete my degree in 2020. Along the way, I also started working as a DevOps engineer, web developer, and cloud technology specialist. I found that I enjoyed the variety of work and the challenges that came with it.</p><p>As I progressed in my career, I often thought about the quote “A jack of all trades is a master of none, but oftentimes better than a master of one.” I realized that while it's important to specialize in certain areas, being able to adapt and learn new skills is just as valuable. And so, I continued to take on new projects and challenge myself to learn as much as I could.</p><p>Overall, it's been a rewarding journey and I'm grateful for the opportunity to work in an industry that I love.</p>
+  list:
+    - label: "Residence"
+      value: "Nepal"
+
+    - label: "Freelance"
+      value: "Available"
+
+    - label: "Address"
+      value: "Kathmandu"
+
+    - label: "E-mail"
+      value: "riwaj5972@gmail.com"
+
+### Services [ services ]
+services:
+  title: "Services"
+  subtitle: "What I deliver"
+  text: "The service I offer is not solely reliant on my own abilities, but rather the collective expertise and skills of a team. In order to provide the best possible delivery, it may be necessary to bring together individuals with diverse skill sets."
+  items:
+    - icon: "fas fa-cloud"
+      name: "Cloud <br /> Solutions"
+      text: "Build cloud based solution, CI/CD pipelined to automate workflow."
+    
+    - icon: "fa fa-file-code"
+      name: "Api <br />Development"
+      text: "Develop secured REST apis as per the business requirment."
+
+    - icon: "fab fa-chrome"
+      name: "Web <br />Development"
+      text: "Full stack web development using verious tech stack as per the business requirment."
+
+    - icon: "fas fa-video"
+      name: "Illustration <br />& Animation"
+      text: "Develop illustration and animation videos as per the requirment."
+
+### Pricing [ pricing ]
+pricing:
+  title: "Pricing"
+  subtitle: "My Plans"
+  items:
+    - icon: "fas fa-star"
+      name: "Standard"
+      price: "10"
+      price_before: "$"
+      price_after: "hour"
+      list:
+        - value: "Consulting"
+          disable: "no"
+        - value: "Web Development"
+          disable: "no"
+        - value: "DevOps Solution"
+          disable: "no"
+      button: "Buy Now"
+      link: "#section-contacts"
+
+    - icon: "fas fa-rocket"
+      name: "Custom"
+      price: "-"
+      price_before: "-"
+      price_after: "-"
+      list:
+        - value: "Consulting"
+          disable: "no"
+        - value: "DevOps Solution"
+          disable: "no"
+        - value: "Many More.."
+          disable: "no"
+      button: "Contact Sales"
+      link: "#section-contacts"
+
+
+### Resume [ resume ]
+resume:
+  experience:
+    title: "Experience"
+    subtitle: "Working with"
+    items:
+      - year: "2019-Present"
+        name: "Freelancing <br />Projects"
+        text: "Worked with many clients across the globe in more than 15 projects across different domains."
+
+      - year: "2020-2022"
+        name: "Asterdio <br />Inc."
+        text: "Worked as a Backend and DevOps Engineer where I developed APIs and build CICD pipeline to automate workflow."
+
+      - year: "2019-2020"
+        name: "Deerwalk Institute <br />of Technology"
+        text: "Developed web application using php's laravel freamework."
+
+  education:
+    title: "Education"
+    subtitle: "Studied at"
+    items:
+      - year: "2011-2012"
+        name: "Art University <br />New York"
+        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+
+      - year: "2010-2011"
+        name: "Programming Course <br />Paris"
+        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+
+      - year: "2009-2010"
+        name: "Web Design Course <br />London"
+        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+
+### Skills [ skills ]
+skills:
+  columns:
+    - type: "default" #skills progress type - default, dotted, circles
+      title: "Design Skills"
+      subtitle: "Creative ability"
+      slug: "design"
+      items:
+        - label: "Web Layout"
+          value: "90" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "Illustrations"
+          value: "70" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "Photoshop"
+          value: "95" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "Graphic Design"
+          value: "85" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+    - type: "dotted" #skills progress type - default, dotted, circles
+      title: "Language Skills"
+      subtitle: "Reading and writing"
+      slug: "lang"
+      items:
+        - label: "English"
+          value: "90" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "German"
+          value: "70" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "Italian"
+          value: "55" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+        - label: "French"
+          value: "85" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
+
+    - type: "circles" #skills progress type - default, dotted, circles
+      title: "Coding Skills"
+      subtitle: "Developing on"
+      slug: "code"
+      items:
+        - label: "WordPress"
+          value: "90" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "PHP, MYSQL"
+          value: "75" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "JavaScript"
+          value: "85" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "Angular"
+          value: "80" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "HTML, CSS"
+          value: "95" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+        - label: "Python"
+          value: "90" #0-100 progress in %
+          text: "Etiam sit amet orci eget eros faucibus tincidunt."
+
+### Testimonials [ testimonials ]
+testimonials:
+  title: "Reviews"
+  subtitle: "What customers say"
+  items:
+    - image: "assets/img/testimonials/rev1.png"
+      name: "Joseph Mackey"
+      role: "Architect"
+      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+
+    - image: "assets/img/testimonials/rev1.png"
+      name: "James Green"
+      role: "Art Director"
+      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+
+    - image: "assets/img/testimonials/rev1.png"
+      name: "Joseph Mackey"
+      role: "Architect"
+      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+
+    - image: "assets/img/testimonials/rev1.png"
+      name: "James Green"
+      role: "Art Director"
+      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+
+### Clients [ clients ]
+clients:
+  title: "Clients"
+  subtitle: "My partners"
+  items:
+    - url: "https://lawandspace.com/"
+      image: "assets/img/clients/ls.png"
+
+    - url: "https://8ksec.io/"
+      image: "assets/img/clients/8ksec.png"
+
+    - url: "https://www.beyondbeijing.org/"
+      image: "assets/img/clients/bbc.jpg"
+
+    - url: "https://www.bslthemes.site"
+      image: "assets/img/clients/client2.png"
+
+    - url: "https://www.bslthemes.site"
+      image: "assets/img/clients/client3.png"
+
+    - url: "https://www.bslthemes.site"
+      image: "assets/img/clients/client1.png"
+
+    - url: "https://www.bslthemes.site"
+      image: "assets/img/clients/client4.png"
+
+### Portfolio [ portfolio ]
+#items generates from dir /_works/*
+portfolio:
+  title: "Portfolio"
+  subtitle: "Latest works"
+
+### Contact [ contacts ]
+contacts:
+  title: "Contact"
+  subtitle: "Let's talk"
+  name: "Riwaj Chalise"
+  subname: "Consultant & Mentor"
+  signature: "R.Chalise"
+  list:
+    - label: "Age:"
+      value: "25"
+
+    - label: "Residence:"
+      value: "Nepal"
+
+    - label: "Freelance:"
+      value: "Available"
+
+    - label: "Address:"
+      value: "Kathmandu"
+
+    - label: "E-mail:"
+      value: "riwaj5972@gmail.com"
