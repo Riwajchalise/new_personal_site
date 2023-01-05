@@ -9,22 +9,18 @@ main:
   # Home
   - title: "Home"
     url: "/"
-    parent: 1
-    childs:
-        - title: "Home 1"
-          url: "/"
-        - title: "Home 2"
-          url: "index-2/"
-        - title: "Home 3"
-          url: "index-3/"
-        - title: "Home Slider"
-          url: "index-slider/"
-        - title: "Home Video"
-          url: "index-video/"
+    parent: 0
+    title: "Home"
+    url: "/"
 
   # About
   - title: "About"
     url: "#section-about"
+    parent: 0
+
+  # Services
+  - title: "Services"
+    url: "#section-services"
     parent: 0
 
   # Resume
@@ -33,9 +29,9 @@ main:
     parent: 0
 
   # Portfolio
-  - title: "Portfolio"
-    url: "#section-portfolio"
-    parent: 0
+  # - title: "Portfolio"
+  #   url: "#section-portfolio"
+  #   parent: 0
 
   # Contacts
   - title: "Contacts"
@@ -45,10 +41,10 @@ main:
   # Blog
   - title: "Blog"
     url: "blog/"
-    parent: 1
-    childs:
-        - title: "Blog List"
-          url: "blog/"
+    parent: 0
+    # childs:
+    #     - title: "Blog List"
+    #       url: "blog/"
 
-        - title: "Blog Single"
-          url: "music/2020/08/05/by-spite-about/"
+    #     - title: "Blog Single"
+    #       url: "music/2020/08/05/by-spite-about/"

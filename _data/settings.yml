@@ -10,8 +10,8 @@ settings:
 header:
   logo:
     image: "assets/img/logo.png"
-    text: "Joé <br />Wilson"
-    alt: "Joé Wilson"
+    text: ""
+    alt: "Riwaj Chalise"
 
   button:
     text: "Download CV"

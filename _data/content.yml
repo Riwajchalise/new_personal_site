@@ -114,17 +114,13 @@ resume:
     title: "Education"
     subtitle: "Studied at"
     items:
-      - year: "2011-2012"
-        name: "Art University <br />New York"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2016-2020"
+        name: "Deerwalk Institute <br />of Technology"
+        text: "Bachelor of Science in Computer Science and Information Technology (BSc. CSIT)"
 
-      - year: "2010-2011"
-        name: "Programming Course <br />Paris"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
-
-      - year: "2009-2010"
-        name: "Web Design Course <br />London"
-        text: "Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna."
+      - year: "2013-2015"
+        name: "Prasadi <br />Academy"
+        text: "High School (Physics Chemistry Biology Maths)"
 
 ### Skills [ skills ]
 skills:
@@ -239,17 +235,11 @@ clients:
     - url: "https://www.beyondbeijing.org/"
       image: "assets/img/clients/bbc.jpg"
 
-    - url: "https://www.bslthemes.site"
-      image: "assets/img/clients/client2.png"
+    - url: "https://asterdio.com/"
+      image: "assets/img/clients/asterdio.png"
 
-    - url: "https://www.bslthemes.site"
-      image: "assets/img/clients/client3.png"
-
-    - url: "https://www.bslthemes.site"
-      image: "assets/img/clients/client1.png"
-
-    - url: "https://www.bslthemes.site"
-      image: "assets/img/clients/client4.png"
+    - url: "https://deerwalk.edu.np/DWIT/rnd.php"
+      image: "assets/img/clients/dwit.png"
 
 ### Portfolio [ portfolio ]
 #items generates from dir /_works/*
