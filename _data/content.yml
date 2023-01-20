@@ -201,29 +201,26 @@ testimonials:
   title: "Reviews"
   subtitle: "What customers say"
   items:
-    - image: "assets/img/testimonials/rev1.png"
-      name: "Joseph Mackey"
-      role: "Architect"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+    - image: "assets/img/testimonials/ak.jpeg"
+      name: "Austin Kocher,Ph.D."
+      role: "Political & legal geographer"
+      text: "His work quality exceeded expectations, because he was able to more than just get the website up and running, he was also able to modify the website with features and designed elements that I had requested. I would highly recommend him to others."
 
-    - image: "assets/img/testimonials/rev1.png"
-      name: "James Green"
-      role: "Art Director"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+    - image: "assets/img/testimonials/prateek.jpg"
+      name: "Prateek Gianchandani"
+      role: "Security Researcher, 8kSec"
+      text: "Everything was done according to plan and the communication was excellent which made it very easy for me. Very easy going person to work with. Would highly recommend."
 
-    - image: "assets/img/testimonials/rev1.png"
-      name: "Joseph Mackey"
-      role: "Architect"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+    - image: "assets/img/testimonials/dan.png"
+      name: "Dan Sadatian"
+      role: "Data Analyst | Operations Research"
+      text: "Great work completed ahead of schedule, would contract again."
 
-    - image: "assets/img/testimonials/rev1.png"
-      name: "James Green"
-      role: "Art Director"
-      text: "Excellent all around! What stood out most was Jake's excellent service. He made sure our order was placed in time, even though we were ordering on a holiday."
+
 
 ### Clients [ clients ]
 clients:
-  title: "Clients"
+  title: "Associated Organization"
   subtitle: "My partners"
   items:
     - url: "https://lawandspace.com/"
