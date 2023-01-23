@@ -11,4 +11,7 @@ main:
     - title: "Instagram"
       icon: "fab fa-instagram"
       url: "https://www.instagram.com/riwajchalise/"
+    - title: "Github"
+      icon: "fab fa-github"
+      url: "https://github.com/Riwajchalise"
 
