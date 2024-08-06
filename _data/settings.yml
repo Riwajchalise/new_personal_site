@@ -15,7 +15,7 @@ header:
 
   button:
     text: "Download CV"
-    url: "https://riwajchalise.com.np/Riwaj_cv.pdf"
+    url: "https://riwajchalise.com/Riwaj_cv.pdf"
     icon: "fas fa-download"
 
 ### Portfolio Filters Settings
