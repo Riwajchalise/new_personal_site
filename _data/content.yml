@@ -7,8 +7,7 @@
 started:
   title: "Riwaj <br />Chalise"
   typed:
-    - "Web Developer"
-    - "DevOps"
+    - "Student"
     - "Freelancer"
   text: "Thank you for visiting my website. Please take a look around and feel free to contact me with any inquiries or collaborations."
   button:
@@ -114,6 +113,10 @@ resume:
     title: "Education"
     subtitle: "Studied at"
     items:
+      - year: "2023-Ongoing"
+        name: "LaTrobe <br /> University"
+        text: "Masters in Information Technology (Cloud Analytics)"
+
       - year: "2016-2020"
         name: "Deerwalk Institute <br />of Technology"
         text: "Bachelor of Science in Computer Science and Information Technology (BSc. CSIT)"
@@ -121,6 +124,8 @@ resume:
       - year: "2013-2015"
         name: "Prasadi <br />Academy"
         text: "High School (Physics Chemistry Biology Maths)"
+
+
 
 ### Skills [ skills ]
 skills:
@@ -201,6 +206,11 @@ testimonials:
   title: "Reviews"
   subtitle: "What customers say"
   items:
+    - image: "assets/img/testimonials/brayan.jpeg"
+      name: "Bryan David Kearney"
+      role: "Product Design | User Experience Design | User Interface Design"
+      text: "Riwaj has great work ethic and his efforts can help solve any Web Development problem. His expertise has been extremely valuable and I highly recommend him as Web Developer, Application Developer, or in DevOps. Riwaj has a great attitude, communicates and explains progress and set-backs, he will be a very welcome addition to any team."
+
     - image: "assets/img/testimonials/ak.jpeg"
       name: "Austin Kocher,Ph.D."
       role: "Political & legal geographer"
@@ -252,17 +262,12 @@ contacts:
   subname: "Consultant & Mentor"
   signature: "R.Chalise"
   list:
-    - label: "Age:"
-      value: "25"
 
     - label: "Residence:"
-      value: "Nepal"
-
-    - label: "Freelance:"
-      value: "Available"
+      value: "Victoria, Australia"
 
     - label: "Address:"
-      value: "Kathmandu"
+      value: "Kingsbury, Victoria"
 
     - label: "E-mail:"
       value: "riwaj5972@gmail.com"

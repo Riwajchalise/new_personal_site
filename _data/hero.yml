@@ -10,7 +10,7 @@ started-image2:
   image: "assets/img/man2.jpg"
 
 started-image3:
-  image: "assets/img/girl3.jpg"
+  image: "assets/img/riwaj.jpeg"
 
 ### Started Video
 started-video:
@@ -20,5 +20,5 @@ started-video:
 started-slider:
   images:
     - "assets/img/girl.jpg"
-    - "assets/img/girl3.jpg"
+    - "assets/img/riwaj.jpeg"
     - "assets/img/girl2.jpg"

@@ -31,10 +31,10 @@
 # basic settings
 title: "Riwaj Chalise"
 email: "riwaj5972@gmail.com"
-description: "CV / Portfolio / Personal template / Riwaj Chalise"
+description: "CV / Portfolio / Riwaj Chalise"
 author: "Riwaj Chalise"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://riwajchalise.com.np" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://riwajchalise.com" # the base hostname & protocol for your site, e.g. http://example.com
 date_format: "%d %B %Y"
 
 # paginations & permalinks
@@ -47,7 +47,7 @@ disqus_comments: "no" # yes - show disqus comments, no - hide disqus comments
 disqus_shortname: "glitche-jekyll-theme" # read more here https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
 
 # formsubmit.io
-formsubmit_email: "beshleyweb@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
+formsubmit_email: "riwaj5972@gmail.com" # sign up on https://formsubmit.io/ and confirm your email
 
 # collections
 collections:
